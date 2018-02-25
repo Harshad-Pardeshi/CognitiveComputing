@@ -1,0 +1,12 @@
+{
+    "batch_size":"128",
+    "num_classes":"10",
+    "epochs":"100",
+    "data_augmentation":"True",
+    "num_predictions":"20",
+    "optimizer":"adam",
+    "learning_rate":"0.01",
+    "loss":"categorical_crossentropy",
+    "AWS_ACCESS_KEY_ID":"",
+    "AWS_SECRET_ACCESS_KEY":""
+}
